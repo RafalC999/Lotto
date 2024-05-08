@@ -4,6 +4,9 @@
 
 <h2 align="left">Screens</h2>
 
+![1](https://github.com/RafalC999/Lotto/assets/145366939/e59cefc1-12d0-4c40-805d-03217bc470cf)
+![2](https://github.com/RafalC999/Lotto/assets/145366939/4e5ce341-9303-47c0-87c5-507829bba438)
+
 
 <h2 align="left">Features:</h2>
 ⚡ Allows you to check the numbers from the last draw. <br>
